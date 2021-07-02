@@ -4,3 +4,8 @@
 <h1> Good job Serge on learning Devops</h1>
 <h1> Lelo Lelo ya sika </h1>
 <h1> Zua connection</h1>
+<h1> I just did it</h1>
+<h1> CRAZY FEELING </h1>
+<h1> FEELS AWESOME </h1>
+
+
